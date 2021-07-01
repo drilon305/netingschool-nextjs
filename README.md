@@ -1,11 +1,6 @@
-## Getting Started
+Landing page for Neting School with Nextjs.
+
 
 Install the dependencies and run the development server
 
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
+Npm run dev
